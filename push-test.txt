@@ -1,4 +1,0 @@
----
-Push test at 2026-09-02T12:00:00+08:00
-Previous 403 has been fixed.
----
